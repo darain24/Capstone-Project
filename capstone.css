@@ -147,7 +147,7 @@ img:hover {
 .row1, .row2, .row3 {
     display: flex;
     width: 100%;
-    heigh: 100%;
+    height: 100%;
     padding: 32px 0px 32px 0px;
     gap: 32px;
     opacity: 0px;
@@ -331,8 +331,6 @@ img:hover {
     font-weight: 500;
     line-height: 20px;
     text-align: center;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     color: #FFFFFF;
 }
 .input-container {
